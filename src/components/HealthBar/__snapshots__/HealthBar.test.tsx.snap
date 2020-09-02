@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<HealthBar /> renders as expected 1`] = `
+<div>
+  <div
+    class="sc-AxjAm ikqlAb"
+  >
+    <div
+      class="sc-AxirZ dQUJrW"
+    >
+      <div
+        class="sc-AxiKw ihDPnh"
+        value="73"
+      />
+    </div>
+    <div
+      class="sc-AxhCb cinyOp"
+      data-testid="healthbar-label"
+    >
+      73
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,141 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Player /> renders hero as expected 1`] = `
+<div>
+  <div>
+    <div
+      class="sc-AxhUy bIlCyN"
+    >
+      <div>
+        <img
+          alt="Player image"
+          class="sc-AxgMl hFZtTr"
+          src="hero.jpg"
+        />
+      </div>
+      <div
+        class="sc-AxjAm ikqlAb"
+      >
+        <div
+          class="sc-AxirZ dQUJrW"
+        >
+          <div
+            class="sc-AxiKw kQyfxs"
+            value="100"
+          />
+        </div>
+        <div
+          class="sc-AxhCb cinyOp"
+          data-testid="healthbar-label"
+        >
+          100
+        </div>
+      </div>
+      <div>
+        <div
+          class="face"
+        >
+          <span
+            class="pip"
+          />
+        </div>
+        <div
+          class="face"
+        >
+          <span
+            class="pip"
+          />
+          <span
+            class="pip"
+          />
+        </div>
+      </div>
+    </div>
+    <h3>
+      Player
+    </h3>
+  </div>
+</div>
+`;
+
+exports[`<Player /> renders monster as expected 1`] = `
+<div>
+  <div>
+    <div
+      class="sc-AxhUy bIlCyN"
+    >
+      <div>
+        <img
+          alt="Monster image"
+          class="sc-AxgMl hFZtTr"
+          src="monster.jpg"
+        />
+      </div>
+      <div
+        class="sc-AxjAm ikqlAb"
+      >
+        <div
+          class="sc-AxirZ dQUJrW"
+        >
+          <div
+            class="sc-AxiKw gsrgqA"
+            value="72"
+          />
+        </div>
+        <div
+          class="sc-AxhCb cinyOp"
+          data-testid="healthbar-label"
+        >
+          72
+        </div>
+      </div>
+      <div>
+        <div
+          class="face"
+        >
+          <span
+            class="pip"
+          />
+          <span
+            class="pip"
+          />
+          <span
+            class="pip"
+          />
+          <span
+            class="pip"
+          />
+          <span
+            class="pip"
+          />
+        </div>
+        <div
+          class="face"
+        >
+          <span
+            class="pip"
+          />
+          <span
+            class="pip"
+          />
+          <span
+            class="pip"
+          />
+          <span
+            class="pip"
+          />
+          <span
+            class="pip"
+          />
+          <span
+            class="pip"
+          />
+        </div>
+      </div>
+    </div>
+    <h3>
+      Monster
+    </h3>
+  </div>
+</div>
+`;
